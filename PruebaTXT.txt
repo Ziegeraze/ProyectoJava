@@ -1,11 +1,13 @@
-<<<<<<< HEAD
+Prueba Texto
+
 estamos probando cosas nuevas
 
-cesar augusto mendoza yanez
-=======
-Prueba Texto
 
 Participantes:
 
+cesar augusto mendoza yanez
+
 Alvaro Perdomo
->>>>>>> 8a7227c65b926c69dd1806bce3375999cb622970
+
+Gutiérrez Zúñiga Jose G
+
